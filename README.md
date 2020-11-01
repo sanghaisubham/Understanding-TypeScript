@@ -1,2 +1,3 @@
 # Understanding-TypeScript
-Created with CodeSandbox
+
+Type Script Basics
